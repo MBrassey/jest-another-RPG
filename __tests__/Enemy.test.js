@@ -3,13 +3,6 @@ const Potion = require("../lib/Potion.js");
 
 jest.mock("../lib/Potion.js");
 
-test("gets a description of the enemy", () => {
-  const enemy = new Enemy("goblin", "sword");
-
-  expect(enemy.getDescription()).toEqual(expect.stringContaining("goblin"));
-  expect(enemy.getDescription()).toEqual(expect.stringContaining("sword"));
-});
-
 test("creates an enemy object", () => {
   const enemy = new Enemy("goblin", "sword");
 
@@ -58,4 +51,11 @@ test("subtracts from enemy's health", () => {
   enemy.reduceHealth(99999);
 
   expect(enemy.health).toBe(0);
+});
+
+test("gets a description of the enemy", () => {
+  const enemy = new Enemy("goblin", "sword");
+
+  expect(enemy.getDescription()).toEqual(expect.stringContaining("goblin"));
+  expect(enemy.getDescription()).toEqual(expect.stringContaining("sword"));
 });
