@@ -34,6 +34,8 @@ Command line RPG written in Node.js following the Test Driven Development model 
 
 [<p align="center"><img src="lib/Preview.png">](https://brassey.io/)
 
+[<p align="center"><img src="lib/Preview1.png">](https://brassey.io/)
+
 #### Questions
 
 Contact me at [matt@brassey.io](mailto:matt@brassey.io) with any questions or comments.
