@@ -1,4 +1,5 @@
 const Game = require("./lib/Game");
+const arg = process.argv[2];
 const version = "1.0.0";
 
 // Display Argument Data
