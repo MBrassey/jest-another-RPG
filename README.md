@@ -6,11 +6,11 @@ Command line RPG written in Node.js following the Test Driven Development model 
 
 #### Issues
 
-- [x] [Create a Potion object](https://github.com/MBrassey/PortfolioGenerator/issues/1)
-- [x] [Create a Player object](https://github.com/MBrassey/PortfolioGenerator/issues/2)
-- [x] [Create an Enemy object](https://github.com/MBrassey/PortfolioGenerator/issues/3)
-- [x] [Create a Game object](https://github.com/MBrassey/PortfolioGenerator/issues/4)
-- [x] [Consolidate the code](https://github.com/MBrassey/PortfolioGenerator/issues/5)
+- [x] [Create a Potion object](https://github.com/MBrassey/jest-another-RPG/issues/1)
+- [x] [Create a Player object](https://github.com/MBrassey/jest-another-RPG/issues/2)
+- [x] [Create an Enemy object](https://github.com/MBrassey/jest-another-RPG/issues/3)
+- [x] [Create a Game object](https://github.com/MBrassey/jest-another-RPG/issues/4)
+- [x] [Consolidate the code](https://github.com/MBrassey/jest-another-RPG/issues/5)
 
 #### Requirements
 
